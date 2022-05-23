@@ -32,3 +32,5 @@ There is this code:
 ```
 
 Module A uses foo, and module B uses bar. So I expect that module A includes only foo function, and module B includes only bar function.
+
+But the two chunks include the two functions :-1:
